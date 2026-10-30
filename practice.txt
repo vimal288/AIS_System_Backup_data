@@ -1,1 +1,2 @@
 Learning Git diff
+Learning Git log and diff
